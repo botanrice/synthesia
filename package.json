@@ -1,0 +1,34 @@
+{
+  "name": "vite-template-react",
+  "version": "1.4.0",
+  "type": "module",
+  "homepage": "/dropcolumn/",
+  "scripts": {
+    "start": "vite --port 3000 --open",
+    "dev": "vite --port 3000 --open",
+    "build": "vite build",
+    "serve": "vite preview --open",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.22.3",
+    "@uiw/react-color": "^2.0.6",
+    "@wcj/dark-mode": "^1.0.16",
+    "firebase": "^10.8.1",
+    "hex-color-to-color-name": "^1.0.2",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.3",
+    "sort-by": "^1.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.1.6",
+    "@testing-library/react": "^14.1.2",
+    "@vitejs/plugin-react": "^4.2.1",
+    "jsdom": "^23.0.1",
+    "vite": "^5.0.8",
+    "vitest": "^1.1.1"
+  }
+}
