@@ -43,6 +43,11 @@ What is preventing me from saying this look good enough to go?
 - [ x ] home btn on palette screen
 - [ x ] white bounding box stretches to full screen
 
+#### v0.0.2
+- [ ] Home page is immediately synthesia
+- [ ] Palettes are saved to a single database
+- [ ] Remove dev buttons
+- [ ] Improved navigation
 
 ### Future
 [ ] Test that this works online
